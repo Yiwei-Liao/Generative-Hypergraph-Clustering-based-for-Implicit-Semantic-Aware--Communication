@@ -15,25 +15,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Yiwei-Liao/Hypergraph-MLE-based-Implicit-Semantic-Recovery-for-Semantic-Communication.git
     cd your-repository
     ```
 
-2.  **Create and activate a virtual environment (Recommended)**
-    This keeps your project dependencies isolated.
-
-    *   On macOS and Linux:
-        ```bash
-        python3 -m venv venv
-        source venv/bin/activate
-        ```
-    *   On Windows:
-        ```bash
-        python -m venv venv
-        .\venv\Scripts\activate
-        ```
-
-3.  **Install dependencies**
+2.  **Install dependencies**
     Install all the required packages using `requirements.txt`.
     ```bash
     pip install -r requirements.txt

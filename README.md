@@ -1,6 +1,6 @@
 # Hypergraph-MLE-based-Implicit-Semantic-Recovery-for-Semantic-Communication
 
-A brief description of your project. What does it do? What problem does it solve? For example: "This project implements the XXX model for node classification on graph datasets like Cora."
+
 
 ## Getting Started
 

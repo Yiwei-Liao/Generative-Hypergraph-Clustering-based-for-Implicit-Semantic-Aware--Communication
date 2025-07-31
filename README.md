@@ -16,7 +16,6 @@ These instructions will get you a copy of the project up and running on your loc
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/Yiwei-Liao/Hypergraph-MLE-based-Implicit-Semantic-Recovery-for-Semantic-Communication.git
-    cd your-repository
     ```
 
 2.  **Install dependencies**

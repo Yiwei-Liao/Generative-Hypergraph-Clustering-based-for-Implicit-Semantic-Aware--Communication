@@ -1,4 +1,4 @@
-# Hypergraph-MLE-based-Implicit-Semantic-Recovery-for-Semantic-Communication
+# Generative Hypergraph Clustering-based for Implicit Semantic-Aware Communication
 
 
 

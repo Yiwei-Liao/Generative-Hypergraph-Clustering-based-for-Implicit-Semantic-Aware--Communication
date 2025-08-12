@@ -1,4 +1,4 @@
-# Generative Hypergraph Clustering-based for Implicit Semantic-Aware Communication
+# Generative Hypergraph Modularity for Semantic-Aware Communication Networks
 
 
 
